@@ -1,0 +1,17 @@
+[
+    {
+        "id": 0,
+        "classId": "cl2009",
+        "ClassName": "2009"
+    },
+    {
+        "id": 1,
+        "city": "cl2010",
+        "zipCOde": "2010"
+    },
+    {
+        "id": 2,
+        "city": "cl2011",
+        "zipCOde": "2011"
+    }
+]
