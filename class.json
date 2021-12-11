@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "classId": "cl2009",
+        "ClassName": "2009"
+    },
+    {
+        "id": 1,
+        "classId": "cl2010",
+        "ClassName": "2010"
+    },
+    {
+        "id": 2,
+        "classId": "cl2011",
+        "ClassName": "2011"
+    },
+    {
+        "id": 3,
+        "classId": "cl2012",
+        "ClassName": "2012"
+    },
+    {
+        "id": 4,
+        "classId": "cl2013",
+        "ClassName": "2013"
+    },
+    {
+        "id": 5,
+        "classId": "clDjevojcice",
+        "ClassName": "Djevojcice"
+    }
+]
