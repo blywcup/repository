@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+ 	"leagueId": "cl09GA",
+        "classId": "cl2009",
+        "leagueName": "Grupa A"
+    },
+    {
+        "id": 1,
+        "leagueId": "cl09GB",
+        "classId": "cl2009",
+        "leagueName": "Grupa B"
+    },
+    {
+        "id": 2,
+        "leagueId": "cl09GC",
+        "classId": "cl2009",
+        "leagueName": "Grupa C"
+    },
+    {
+        "id": 3,
+        "leagueId": "cl09GD",
+        "classId": "cl2009",
+        "leagueName": "Grupa D"
+    },
+    {
+        "id": 4,
+        "leagueId": "cl10GA",
+        "classId": "cl2010",
+        "leagueName": "Grupa A"
+    },
+    {
+        "id": 5,
+        "leagueId": "cl10GB",
+        "classId": "cl2010",
+        "leagueName": "Grupa B"
+    },
+    {
+        "id": 6,
+        "leagueId": "cl10GC",
+        "classId": "cl2010",
+        "leagueName": "Grupa C"
+    },
+    {
+        "id": 7,
+        "leagueId": "cl10GD",
+        "classId": "cl2010",
+        "leagueName": "Grupa D"
+    }
+]
